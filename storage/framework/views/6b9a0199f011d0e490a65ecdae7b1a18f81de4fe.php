@@ -1,0 +1,1 @@
+jajal<?php /**PATH C:\xampp\htdocs\laravel8-crud coba\resources\views/coba/jajal.blade.php ENDPATH**/ ?>
